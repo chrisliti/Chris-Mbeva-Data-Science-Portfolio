@@ -3,7 +3,7 @@
 ## Introduction
 I am a dynamic and adaptable Data Scientist with a robust background spanning banking and finance, agriculture technology, and consulting. Proficient in the entire data science spectrum, I specialize in transforming raw data into actionable insights. My expertise encompasses extracting actionable tasks from business requirements, developing comprehensive data pipelines, performing exploratory analysis, building statistical models, and deploying machine learning and artificial intelligence solutions. Skilled in programming languages such as Python and R, frameworks for APIs and web development, and adept in cloud computing, I bring a versatile skill set to every project.
 
-## Projects / Use Cases
+## Projects 
 
 ### Data Extraction
 - **Web Scraping:** Leveraged Python libraries like BeautifulSoup to scrape financial data from various websites. Automated on AWS virtual machines (ec2 instances), resulting insights significantly enhanced product design.
